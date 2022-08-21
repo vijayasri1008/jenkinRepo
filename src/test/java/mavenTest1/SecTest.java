@@ -7,5 +7,7 @@ public class SecTest {
     public void  check()
     {
         System.out.println("hi...");
+        System.out.println("hi...viji");
+
     }
 }
